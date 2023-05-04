@@ -1,0 +1,20 @@
+{
+  "name": "passwordjs",
+  "version": "1.0.0",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "../doc",
+    "test": ""
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
